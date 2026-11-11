@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/liueggy/free-sub/main/clash.yaml
+https://raw.githubusercontent.com/chenzhihan1751-cyber/node-sub-zixf/refs/heads/main/sub/v2ray.txt
 https://raw.githubusercontent.com/awwy1222/node-checker-sub/refs/heads/main/sub.yaml
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/subs/main/alive_full.txt
 https://raw.githubusercontent.com/wlunlocker/vpn-configs/refs/heads/main/blacklist_all.txt
