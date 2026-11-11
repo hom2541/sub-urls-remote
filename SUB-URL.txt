@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS_WEAK_DPI_RUS.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
 https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/BlackHy2Trojan.txt
 https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/BlackList.txt
 https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/WhiteHy2Trojan.txt
