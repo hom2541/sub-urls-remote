@@ -1,3 +1,8 @@
+https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/BlackHy2Trojan.txt
+https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/BlackList.txt
+https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/WhiteHy2Trojan.txt
+https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/merged_all_Checked.txt
+https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/refs/heads/main/output/merged_all.txt
 https://raw.githubusercontent.com/ivanprochorov2022-debug/V2RayN-VPN-Source/refs/heads/main/live.txt
 https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
 https://raw.githubusercontent.com/asgharkapk/Sub-Config-Extractor/refs/heads/main/output_configs/clash/rasool083-sub.yaml
