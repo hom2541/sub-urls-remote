@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/AleksanderAnapa/mixomolists/refs/heads/main/subscribes.txt
 https://gist.githubusercontent.com/yg0082/02eab2750c1a0e4381e4008aa3928d5d/raw/subscribes.txt
 https://gist.githubusercontent.com/itq5/18576046192f2531bb9d038671cb5874/raw/clash.yaml
 https://gist.githubusercontent.com/zhuoyangqw/832e78300f348f3588ef28f194c9131c/raw/v2ray.txt
