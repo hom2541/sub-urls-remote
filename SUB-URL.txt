@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/httpproxy.txt
 https://raw.githubusercontent.com/share-daily/node/refs/heads/main/clash.yaml
 https://gist.githubusercontent.com/zzworker/d7b40db5b514a2ad4581bd38086eee15/raw/subscribes.txt
 https://gist.githubusercontent.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/base64.txt
