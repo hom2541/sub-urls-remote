@@ -1,3 +1,4 @@
+https://wac.jiahe2018.cc.cd/sub
 https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/httpproxy.txt
 https://raw.githubusercontent.com/share-daily/node/refs/heads/main/clash.yaml
 https://gist.githubusercontent.com/zzworker/d7b40db5b514a2ad4581bd38086eee15/raw/subscribes.txt
